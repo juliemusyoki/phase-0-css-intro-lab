@@ -1,0 +1,7 @@
+file:///home/juliet/Developments/code/Phase0/html-css-js-personal-portfolio-jm/style.css {"mtime":1694884454288,"ctime":1694884454288,"size":0,"etag":"3b7ba4ne50","orphaned":false,"typeId":""}
+*{
+    margin: 0% ;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif; ;
+    box-sizing: border-box;
+}

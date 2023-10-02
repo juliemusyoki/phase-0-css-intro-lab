@@ -6,7 +6,3 @@ export NVM_DIR="$HOME/.nvm"
 # Do not modify - this code loads the Ruby Version Manager
 PATH="$GEM_HOME/bin:$HOME/.rvm/bin:$PATH"
 [ -s ${HOME}/.rvm/scripts/rvm ] && source ${HOME}/.rvm/scripts/rvm
-# Do not modify - this code loads the Ruby Version Manager
-PATH="$GEM_HOME/bin:$HOME/.rvm/bin:$PATH"
-[ -s ${HOME}/.rvm/scripts/rvm ] && source ${HOME}/.rvm/scripts/rvm
-export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"

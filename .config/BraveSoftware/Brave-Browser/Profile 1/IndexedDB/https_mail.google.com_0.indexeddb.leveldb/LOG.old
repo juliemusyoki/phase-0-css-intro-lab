@@ -1,0 +1,12 @@
+2023/09/16-15:47:18.256 145c Reusing MANIFEST /home/juliet/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/16-15:47:18.257 145c Recovering log #4
+2023/09/16-15:47:18.263 145c Reusing old log /home/juliet/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2023/09/16-15:47:37.363 145d Level-0 table #8: started
+2023/09/16-15:47:37.399 145d Level-0 table #8: 1937423 bytes OK
+2023/09/16-15:47:37.404 145d Delete type=0 #4
+2023/09/16-15:47:41.331 145c Compacting 1@1 + 1@2 files
+2023/09/16-15:47:41.349 145c Generated table #9@1: 107 keys, 27614 bytes
+2023/09/16-15:47:41.349 145c Compacted 1@1 + 1@2 files => 27614 bytes
+2023/09/16-15:47:41.356 145c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/16-15:47:41.357 145c Delete type=2 #8
+2023/09/16-15:47:41.357 145c Delete type=2 #5

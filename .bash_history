@@ -1,46 +1,3 @@
-cd ~/Developments/code/Phase0
-git clone git@github.com:juliemusyoki/phase-0-completing-assignments-learn-lab-gem.git
-sudo git clone git@github.com:juliemusyoki/phase-0-completing-assignments-learn-lab-gem.git
-clear
-git clone $ git clone git@github.com:<your-juliemusyoki>/phase-0-completing-assignments-learn-lab-gem.git
-git clone $ git clone git@github.com:<juliemusyoki>/phase-0-completing-assignments-learn-lab-gem.git
-clear
-cd~
-cd ~
-clear
-cd ~/Developments/code/Phase0
-cd ~/Developments/code/Phase0 git clone git@github.com:juliemusyoki/phase-0-completing-assignments-learn-lab-gem.git
-git clone git@github.com:juliemusyoki/phase-0-completing-assignments-learn-lab-gem.git
-git@github.com:juliemusyoki/phase-0-completing-assignments-learn-lab-gem.git
-clear
-git clone git@github.com:juliemusyoki/phase-0-completing-assignments-learn-lab-gem.git
-ssh-keygen
-ssh-keygen
-cd ~/Developments/code/Phase0
-git clone git@github.com:juliemusyoki/phase-0-completing-assignments-learn-lab-gem.git
-ssh
-ssh-keygen -t ed25519 -C "musyoki.juliet011@gmail.com"
-cd ~/documents
-cd ~
-cd ~/Developments/code/Phase0
-git clone https://github.com/juliemusyoki/phase-0-completing-assignments-learn-lab-gem.git
-$ cd phase-0-completing-assignments-learn-lab-gem
-$ cd Phase0-completing-assignments-learn-lab-gem
-cd ~
-clear
-learn-lab config
-clear
-ssh-keygen
-cd ~/Developments/code/Phase0
-git clonegit@github.com:juliemusyoki/phase-0-completing-assignments-learn-lab-gem.git
-git clone git@github.com:juliemusyoki/phase-0-completing-assignments-learn-lab-gem.git
-$ cd phase-0-completing-assignments-learn-lab-gem
- cd phase-0-completing-assignments-learn-lab-gem
-code .
-$ cd phase-0-completing-assignments-learn-lab-gem
- cd phase-0-completing-assignments-learn-lab-gem
-cd ~/Developments/code/Phase0
-git clone git@github.com:juliemusyoki/Phase0-completing-assignments-learn-lab-gem.git
 git clone git@github.com:juliemusyoki/phase-0-completing-assignments-learn-lab-gem.git
 rm -r phase-0-completing-assignments-learn-lab-gem.git
 clear
@@ -498,3 +455,46 @@ git push -u origin main
 git add .
 git commit -m "Completed Assignment"
 git push -u origin main
+curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/wsl-phase-0-manual-setup-validator.sh | bash 2> /dev/null
+mv ~/.bashrc{,.bak}
+curl -sSL https://raw.githubusercontent.com/flatiron-school/dotfiles/master/minimal-bashrc > ~/.bashrc
+nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.36.0/install.sh | bash
+nvm
+export NVM_DIR="$HOME/.nvm"
+nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.36.0/install.sh | bash
+nvm
+nvm list
+rvm
+rvm list
+rvm list
+rvm install ruby-2.7.4 --default
+rvm install ruby-2.7.4 --default
+curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/wsl-phase-0-manual-setup-validator.sh | bash 2> /dev/null
+rvm use 2.7.4 --default
+nvm install node
+curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/wsl-phase-0-manual-setup-validator.sh | bash 2> /dev/null
+rbenv install 2.7.4
+rbenv global 2.7.4
+rbenv install 2.7.4
+rbenv install --list
+rbenv install 2.7.1
+curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/wsl-phase-0-manual-setup-validator.sh | bash 2> /dev/null
+rbenv install 2.7.1
+rbenv global 2.7.1
+ruby -v
+curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/wsl-phase-0-manual-setup-validator.sh | bash 2> /dev/null
+\curl -sSL https://get.rvm.io | bash
+rvm install 2.7.4
+curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/wsl-phase-0-manual-setup-validator.sh | bash 2> /dev/null
+bundle
+npm install
+github-desktop
+github-desktop
+github-desktop install
+sudo github-desktop install
+clear
+cd ~/Developments/code/Phase0
+mkdir html-css-js-personal-portfolio-jm
+ls
